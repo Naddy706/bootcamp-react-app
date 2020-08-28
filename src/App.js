@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-     <h1> first react app deployed using github Actions</h1>
+     <h1> first react app deployed using Github Actions.</h1>
     </div>
   );
 }
